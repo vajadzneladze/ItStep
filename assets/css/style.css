@@ -1,0 +1,24 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type:none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color:#fbfbfb;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color:white;
+}
